@@ -1,0 +1,12 @@
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csproj.AssemblyReference.cache
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.Form1.resources
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.Properties.Resources.resources
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csproj.GenerateResource.cache
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\bin\Debug\login_islemleri.exe.config
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\bin\Debug\login_islemleri.exe
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\bin\Debug\login_islemleri.pdb
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.exe
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.pdb
+C:\Users\balab\Documents\C# Project\Udemy\login_islemleri\login_islemleri\obj\Debug\login_islemleri.Form2.resources
